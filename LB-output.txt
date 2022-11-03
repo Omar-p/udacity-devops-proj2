@@ -1,1 +1,0 @@
-WebAppLBDNSName	http://serve-WebAp-XFOUDDRFY683-1193958588.us-east-1.elb.amazonaws.com
